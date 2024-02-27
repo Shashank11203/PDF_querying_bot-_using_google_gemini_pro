@@ -16,7 +16,7 @@ load_dotenv()
 #google_api_key = os.getenv("GOOGLE_API_KEY")
 
 
-os.environ['GOOGLE_API_KEY'] = 'AIzaSyCeoKqSqyeplngvh2EVWh2LNVF_IDYbFE0'
+os.environ['GOOGLE_API_KEY'] = 'YOUR_API_KEY'
 
 # Your code here
 

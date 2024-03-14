@@ -12,13 +12,7 @@ from dotenv import load_dotenv
 import base64
 
 
-
-
 load_dotenv()
-import os
-
-
-
 os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 if google_api_key is None:
@@ -75,8 +69,6 @@ def user_input(user_question):
     docs = new_db.similarity_search(user_question)
 
     chain = get_conversational_chain()
-
-    
     response = chain(
         {"input_documents":docs, "question": user_question}
         , return_only_outputs=True)
@@ -139,8 +131,6 @@ def main():
                 text_chunks = get_text_chunks(raw_text)
                 get_vector_store(text_chunks)
                 st.success("Done")
-
-
 
 if __name__ == "__main__":
     main()

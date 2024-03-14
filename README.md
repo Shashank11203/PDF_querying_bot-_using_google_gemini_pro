@@ -26,5 +26,3 @@ To use the application, run the main.py file with the streamlit CLI (after havin
   streamlit run main.py
 ```
 
-## How it Works
-1.**PDF text Extraction**: 

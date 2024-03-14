@@ -1,7 +1,8 @@
 # PDF-Querying-using-Google-Gemini-Pro-Langchain-and-Streamlit
 
-<img src= "![Screenshot 2024-03-14 154005](https://github.com/Shashank11203/PDF_querying_bot-_using_google_gemini_pro/assets/114545974/7ca17021-3a88-4e06-93c4-b12e7ecaae92)
-">
+![Screenshot 2024-03-14 15400](https://github.com/Shashank11203/PDF_querying_bot-_using_google_gemini_pro/assets/114545974/c94ea36f-5a0a-44fd-b746-cfafa7d48abe)
+
+
 
 
 Upload multiple PDFs: You can upload several PDFs at once, making it efficient to search through a collection.

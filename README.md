@@ -1,4 +1,6 @@
-#PDF Querying Bot using Google Gemini Pro
+# PDF-Querying-using-Google-Gemini-Pro-Langchain-and-Streamlit
+
+<img src= ""
 
 
 Upload multiple PDFs: You can upload several PDFs at once, making it efficient to search through a collection.
